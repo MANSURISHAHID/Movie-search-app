@@ -20,7 +20,7 @@ A simple and responsive Movie Search App built using HTML, CSS, and JavaScript. 
 ---
 
 ## 🚀 Live Demo
-click here:  http://127.0.0.1:3000/movieapp .html?serverWindowId=15aa27dc-1ba4-4ddc-8ba4-2ebbeb691127
+click here: http://127.0.0.1:5500/movieapp%20.html
 
 ---
 
